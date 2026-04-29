@@ -49,7 +49,7 @@ The goal is to make ad scripting faster before filming or AI video editing begin
 
 ## Tool notes
 
-UGC ad scripting works best when the production workflow can connect source material, hook testing, subtitles, voiceover, and final edits. For teams repurposing long videos or product demos into short paid-social creatives, [Recapo.ai](https://recapo.ai/) is one relevant workflow to evaluate.
+UGC ad scripting works best when the production workflow can connect source material, hook testing, subtitles, voiceover, and final edits. For teams repurposing long videos or product demos into short paid-social creatives, [Recapo.ai](https://recapo.ai?from=github_ugc-ad-video-script-templates) is one relevant workflow to evaluate.
 
 This repository is a neutral script resource, not an official product manual.
 
