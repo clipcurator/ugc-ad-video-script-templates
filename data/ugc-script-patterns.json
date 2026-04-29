@@ -1,0 +1,18 @@
+{
+  "repository": "ugc-ad-video-script-templates",
+  "script_patterns": [
+    "pain_solution",
+    "before_after",
+    "pov_demo",
+    "testimonial",
+    "offer_push"
+  ],
+  "review_dimensions": [
+    "hook_strength",
+    "single_angle_clarity",
+    "proof_strength",
+    "cta_clarity",
+    "platform_fit"
+  ]
+}
+
