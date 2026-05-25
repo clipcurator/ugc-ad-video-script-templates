@@ -6,7 +6,7 @@
 
 ## Website
 
-`https://recapo.ai?from=github_ugc-ad-video-script-templates`
+`https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=ugc-ad-video-script-templates`
 
 ## Topics
 
